@@ -19,4 +19,4 @@ Example 2:
 
 Input: nums = []
 Output: -1
-Explanation: Because there are no elements, return -1.
+Explanation: Because there are no elements, return -1 
