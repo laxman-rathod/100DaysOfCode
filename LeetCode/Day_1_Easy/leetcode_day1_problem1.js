@@ -9,7 +9,7 @@ Array.prototype.last = function () {
     return -1; // Return -1 for empty array
   }
 };
-
+ 
 /**
  * const arr = [1, 2, 3];
  * arr.last(); // 3
