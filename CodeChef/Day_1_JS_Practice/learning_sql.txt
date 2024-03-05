@@ -1,0 +1,17 @@
+Learning SQL
+------------
+
+Chef has recently started learning from the new CodeChef SQL course.
+
+He has a table which initially has R rows and C columns. He then adds E extra rows to it. How many total cells does he have finally?
+
+Input Format
+The only line in the input contains three space-separated integers R, C, and E — the number of initial rows, the number of columns, and the number of extra rows added, respectively.
+
+Output Format
+Output on a new line, a single integer, which should be the final total number of cells in the table.
+
+
+Sample 1:
+Input   Output
+5 2 1   12
