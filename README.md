@@ -9,7 +9,7 @@ Hi there! I'm **Laxman Rathod**, and I'm participating in the #100DaysOfCode cha
 - Learn and implement [specific skill or technology]
 
 ## Resources
-- [LeetCode Profile](https://www.leetcode.com/laxman_12)
+- [LeetCode Profile](https://www.leetcode.com/luckyrathod)
 - [CodeChef Profile](https://www.codechef.com/users/laxmanr_12)
 
 ## Notes
