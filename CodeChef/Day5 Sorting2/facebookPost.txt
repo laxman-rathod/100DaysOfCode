@@ -1,0 +1,32 @@
+Facebook
+A post on facebook is said to be more popular if the number of likes on the post is strictly greater than the number of likes on some other post. In case the number of likes is same, the post having more comments is more popular.
+
+Given arrays A and B, each having size N, such that the number of likes and comments on the ℎi th post are Ai and Bi respectively, find out which post is most popular.
+
+It is guaranteed that the number of comments on all the posts is distinct.
+
+Input Format
+The first line of input will contain a single integer T, denoting the number of test cases.
+Each test case consists of multiple lines of input.
+The first line of each test case contains a single integer N, the number of posts.
+The second line of each test case contains N space-separated integers 1,2,A1 ,A2 ,…, An — where Ai is the number of likes on the ℎi th post.
+The third line of each test case contains N space-separated integers 1,2,…,B1​ ,B2 ,…,Bn — where Bi is the number of comments on the ℎi th post.
+
+Output Format
+For each test case, output on a new line, an integer in the range 1 to N, denoting the index of the post which is most popular among the N posts.
+
+Input       Output
+
+4
+3          1
+5 4 4
+1 2 3
+3          2
+10 10 9
+2 5 4
+3          3
+3 3 9
+9 1 3
+4          2
+2 8 1 5
+2 8 1 9
