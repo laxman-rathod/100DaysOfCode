@@ -6,11 +6,11 @@ Hi there! I'm **Laxman Rathod**, and I'm participating in the #100DaysOfCode cha
 
 ## Goals
 - Complete 100 coding challenges
-- Learn and implement [specific skill or technology]
+- Learn and implement Data Structures and Algorithms
 
 ## Resources
-- [LeetCode Profile](https://www.leetcode.com/luckyrathod)
-- [CodeChef Profile](https://www.codechef.com/users/laxmanr_12)
+- [LeetCode](https://www.leetcode.com/luckyrathod)
+- [CodeChef](https://www.codechef.com/users/laxmanr_12)
 
 ## Notes
 - Feel free to provide any additional notes, reflections, or thoughts about your coding journey.
