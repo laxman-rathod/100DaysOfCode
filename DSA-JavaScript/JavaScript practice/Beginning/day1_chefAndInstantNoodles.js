@@ -1,4 +1,4 @@
-// Complete the code
++8// Complete the code
 
 function maxCustomers(X, Y) {
   const chef = X * Y;
