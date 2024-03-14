@@ -2,7 +2,7 @@
 
 ![100DaysOfCode](https://img.shields.io/badge/100DaysOfCode-Challenge-blueviolet.svg)
 
-Hi there! I'm **Laxman Rathod**, and I'm participating in the #100DaysOfCode challenge to improve my programming skills. This repository serves as a journal of my progress, showcasing the code I've written and the challenges I've tackled over 100 days.
+Hi! my name is **Laxman Rathod**, I'm participating in the #100DaysOfCode challenge to improve my programming skills. This repository serves as a journal of my progress, showcasing the code I've written and the challenges I've tackled over 100 days.
 
 ## Goals
 - Complete 100 coding challenges
